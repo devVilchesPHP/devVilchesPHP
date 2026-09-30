@@ -10,7 +10,7 @@
  💻 Tecnología & Framework<br>
  <br>
  <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>   Lenguajes & Frontend:  HTML5, CSS3, JavaScript ,  React<br> <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools 
-  Backend & Bases de Datos:  Python,  FastAPI  , PostgreSQL<br> https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true Control de versiones: Git, GitHub <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Sistema operativos: Windows , Linux
+  Backend & Bases de Datos:  Python,  FastAPI  , PostgreSQL<br> <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> Control de versiones: Git, GitHub <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Sistema operativos: Windows , Linux
 
 
 # 💻 Tech Stack:
