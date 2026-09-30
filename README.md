@@ -15,7 +15,7 @@
  <br>
  Backend & Bases de Datos:  Python,  FastAPI  , PostgreSQL  
  <br>
- Control de versiones: Git, GitHub  
+ Control de versiones: Git, GitHub <br> <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a> <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
  <br>
  Sistema operativos: Windows , Linux <br> <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a> <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
  <br>
