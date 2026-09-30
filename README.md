@@ -13,8 +13,7 @@
  
  Lenguajes & Frontend:  HTML5, CSS3, JavaScript ,  React  
  <br>
- Backend & Bases de Datos:  Python,  FastAPI  , PostgreSQL <br> <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white"> 
+ Backend & Bases de Datos:  Python,  FastAPI  , PostgreSQL <br> <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white"> 
  <br>
  Control de versiones: Git, GitHub <br> <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a> <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
  <br>
