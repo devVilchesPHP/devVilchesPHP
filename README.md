@@ -17,7 +17,7 @@
  <br>
  Control de versiones: Git, GitHub  
  <br>
- Sistema operativos: Windows , Linux <br> <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a> <br> <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
+ Sistema operativos: Windows , Linux <br> <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a> <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
  <br>
  IDE: Visual Studio Code 
  
