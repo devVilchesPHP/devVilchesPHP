@@ -32,7 +32,9 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+<br>
 
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=¡Hola,%20soy%20[TuNombre]!&fontSize=40&animation=fadeIn)
 
 
 
