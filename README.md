@@ -9,15 +9,11 @@
  ¡Hola! Soy Amir<br><br>🎓 Estudiante de la Tecnicatura Universitaria en Desarrollo Web  <br>💡 Apasionado por convertir ideas en aplicaciones web funcionales y bien estructuradas.<br><br>---<br><br> 🚀 Sobre mí<br>- 📚 Actualmente  cursando la Tecnicatura en Desarrollo Web.<br>- 🛠️ Construyendo proyectos personales para reforzar lógica y arquitectura.<br>- 🎯 Mi meta: Dominar el stack web moderno y colaborar en proyectos de código abierto.<br><br>---<br><br>    
  💻 Tecnología & Framework
  Lenguajes & Frontend:  HTML5, CSS3, JavaScript ,  React  
- <br>
  Backend & Bases de Datos:  Python,  FastAPI  , PostgreSQL  
- <br>
  Control de versiones: Git, GitHub  
- <br>
  Sistema operativos: Windows , Linux
- <br>
  IDE: Visual Studio Code 
- <br>
+ 
 
 
 # 💻 Tech Stack:
