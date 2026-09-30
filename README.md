@@ -34,7 +34,7 @@
 
 <br>
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&text=Hacer+que+las+cosas+parezcan+simples+es+un+trabajo+muy+duro.&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60)
+![Banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&text=%22Hacer+que+las+cosas+parezcan+simples+es+un+trabajo+muy+duro.%22+&textBg=false&fontColor=ff4ff35&fontSize=28&fontAlign=50&fontAlignY=50&animation=scaleIn&rotate=0&stroke=branco&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60)
 
 
 
