@@ -8,8 +8,10 @@
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
  ¡Hola! Soy Amir<br><br>🎓 Estudiante de la Tecnicatura Universitaria en Desarrollo Web  <br>💡 Apasionado por convertir ideas en aplicaciones web funcionales y bien estructuradas.<br><br>---<br><br> 🚀 Sobre mí<br>- 📚 Actualmente  cursando la Tecnicatura en Desarrollo Web.<br>- 🛠️ Construyendo proyectos personales para reforzar lógica y arquitectura.<br>- 🎯 Mi meta: Dominar el stack web moderno y colaborar en proyectos de código abierto.<br><br>---<br><br>    
  💻 Tecnología & Framework
- <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>   Lenguajes & Frontend:  HTML5, CSS3, JavaScript ,  React<br> <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools 
-  Backend & Bases de Datos:  Python,  FastAPI  , PostgreSQL <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> Control de versiones: Git, GitHub <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Sistema operativos: Windows , Linux
+ Lenguajes & Frontend:  HTML5, CSS3, JavaScript ,  React  Software & Tools 
+  Backend & Bases de Datos:  Python,  FastAPI  , PostgreSQL  
+  Control de versiones: Git, GitHub  
+  Sistema operativos: Windows , Linux
 
 
 # 💻 Tech Stack:
