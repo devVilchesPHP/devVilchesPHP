@@ -11,7 +11,7 @@
  Lenguajes & Frontend:  HTML5, CSS3, JavaScript ,  React  
  Backend & Bases de Datos:  Python,  FastAPI  , PostgreSQL  
  Control de versiones: Git, GitHub  
- Sistema operativos: Windows , Linux
+ Sistema operativos: Windows , Linux <br>
  IDE: Visual Studio Code 
  
 
