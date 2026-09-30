@@ -10,13 +10,14 @@
  💻 Tecnología & Framework
  Lenguajes & Frontend:  HTML5, CSS3, JavaScript ,  React  
  <br>
- Software & Tools 
- <br>
  Backend & Bases de Datos:  Python,  FastAPI  , PostgreSQL  
  <br>
  Control de versiones: Git, GitHub  
  <br>
  Sistema operativos: Windows , Linux
+ <br>
+ IDE: Visual Studio Code 
+ <br>
 
 
 # 💻 Tech Stack:
