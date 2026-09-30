@@ -15,6 +15,8 @@
  Backend & Bases de Datos:  Python,  FastAPI  , PostgreSQL  
  Control de versiones: Git, GitHub  
  Sistema operativos: Windows , Linux 
+ 
+ <br>
  IDE: Visual Studio Code 
  
 
