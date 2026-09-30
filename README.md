@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Honk&pause=1000&width=435&lines=+Desarrollador+full+stack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Honk&size=40&pause=1000&width=435&lines=FUTURO++DESARROLLADOR+;FULL+STACK)](https://git.io/typing-svg)
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
