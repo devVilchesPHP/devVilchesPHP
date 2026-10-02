@@ -40,9 +40,10 @@
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/050ee33b-71f6-4e36-9b2e-9b62f07a1353" />
+  <img src="" />
 </p>
 
+<img width="735" height="147" alt="jonypeixoto - Overview" src="https://github.com/user-attachments/assets/93daa84d-effe-4bf7-ba3e-04399a76df7e" />
 
 
 
