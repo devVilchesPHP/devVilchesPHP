@@ -40,7 +40,6 @@
 
 
 <p align="center">
-  <img src="" />
+  <img src="https://github.com/user-attachments/assets/0456c7f9-e59e-4a78-8a42-7a8da503df65"" />
 </p>
-" />
-<img width="855" height="500" alt="Mr_ Robot - Pixel Fanart - Matheus Bitencourt" src="https://github.com/user-attachments/assets/0456c7f9-e59e-4a78-8a42-7a8da503df65" />
+
