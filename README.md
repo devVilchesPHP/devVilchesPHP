@@ -1,7 +1,9 @@
 
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3bb6defa-87d9-4400-a81e-70b2fd6c5993" alt="Banner" width="100%" />
+</p>
 
-<img width="736" height="414" alt="Da Vinci&#39;s creation of adam ASCII Wallpaper" src="https://github.com/user-attachments/assets/3bb6defa-87d9-4400-a81e-70b2fd6c5993" />
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Honk&size=40&pause=1000&width=435&lines=FUTURO++DESARROLLADOR+;FULL+STACK)](https://git.io/typing-svg)
