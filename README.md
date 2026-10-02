@@ -45,8 +45,11 @@
 
 
 <img width="270" height="375" alt="ASCII Art avec GIMP" src="https://github.com/user-attachments/assets/b475700d-77b1-4dcd-8cba-c57eac4679ab" /> 
-<br> 
-<img width="736" height="414" alt="4K   HD Wallpapers - WallpaperCat" src="https://github.com/user-attachments/assets/c9242bd2-800c-41ed-b549-236c34e607d7" />
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c9242bd2-800c-41ed-b549-236c34e607d7" alt="Banner" width="100%" />
+</p>
 
 
 
