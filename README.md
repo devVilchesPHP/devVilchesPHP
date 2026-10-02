@@ -1,5 +1,7 @@
 
 
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Honk&size=40&pause=1000&width=435&lines=FUTURO++DESARROLLADOR+;FULL+STACK)](https://git.io/typing-svg)
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
@@ -38,7 +40,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8d9afcad-7306-49f8-880f-62b3687730d4" />
+  <img src="https://github.com/user-attachments/assets/050ee33b-71f6-4e36-9b2e-9b62f07a1353" />
 </p>
 
 
