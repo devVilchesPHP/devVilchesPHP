@@ -41,8 +41,8 @@
 
 <br>
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&text=%22Hacer+que+las+cosas+parezcan+simples+es+un+trabajo+muy+duro.%22+&textBg=false&fontColor=ff4ff35&fontSize=28&fontAlign=50&fontAlignY=50&animation=scaleIn&rotate=0&stroke=branco&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60)
 
 
+<img width="270" height="375" alt="ASCII Art avec GIMP" src="https://github.com/user-attachments/assets/b475700d-77b1-4dcd-8cba-c57eac4679ab" />
 
 
