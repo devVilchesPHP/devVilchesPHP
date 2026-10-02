@@ -38,8 +38,9 @@
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c9242bd2-800c-41ed-b549-236c34e607d7" alt="Banner" width="100%" />
+  <img src="https://github.com/user-attachments/assets/8d9afcad-7306-49f8-880f-62b3687730d4" />
 </p>
+
 
 
 
