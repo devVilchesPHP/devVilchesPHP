@@ -1,4 +1,8 @@
 
+
+
+<img width="736" height="414" alt="God Hands ASCII Art(1)" src="https://github.com/user-attachments/assets/178f4864-76db-4595-a372-538b3d2976a9" />
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Honk&size=40&pause=1000&width=435&lines=FUTURO++DESARROLLADOR+;FULL+STACK)](https://git.io/typing-svg)
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
