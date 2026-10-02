@@ -42,8 +42,5 @@
 <p align="center">
   <img src="" />
 </p>
-
-<img width="735" height="147" alt="jonypeixoto - Overview" src="https://github.com/user-attachments/assets/93daa84d-effe-4bf7-ba3e-04399a76df7e" />
-
-
-
+" />
+<img width="855" height="500" alt="Mr_ Robot - Pixel Fanart - Matheus Bitencourt" src="https://github.com/user-attachments/assets/0456c7f9-e59e-4a78-8a42-7a8da503df65" />
