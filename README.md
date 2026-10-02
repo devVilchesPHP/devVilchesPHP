@@ -1,12 +1,5 @@
 
 
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/3bb6defa-87d9-4400-a81e-70b2fd6c5993" alt="Banner" width="100%" />
-</p>
-
-
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Honk&size=40&pause=1000&width=435&lines=FUTURO++DESARROLLADOR+;FULL+STACK)](https://git.io/typing-svg)
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
@@ -42,9 +35,6 @@
 
 <br>
 
-
-
-<img width="270" height="375" alt="ASCII Art avec GIMP" src="https://github.com/user-attachments/assets/b475700d-77b1-4dcd-8cba-c57eac4679ab" /> 
 
 
 <p align="center">
