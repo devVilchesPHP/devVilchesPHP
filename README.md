@@ -1,4 +1,5 @@
-<img width="736" height="414" alt="descarga" src="https://github.com/user-attachments/assets/1100e1bd-4609-4bff-b910-d2b2c854fca7" />
+<img width="4128" height="1024" alt="Gemini_Generated_Image_ilon2jilon2jilon" src="https://github.com/user-attachments/assets/bc585473-d3f0-4e5e-a505-dfae4ba7aab2" />
+
 
 
 
