@@ -7,11 +7,14 @@
 <br>
 
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
- ¡Hola! Soy Amir<br><br>🎓 Estudiante de la Tecnicatura Universitaria en Desarrollo Web  <br>💡 Apasionado por convertir ideas en aplicaciones web funcionales y bien estructuradas.<br><br>---<br><br> 🚀 Sobre mí<br>- 📚 Actualmente  cursando la Tecnicatura en Desarrollo Web.<br>- 🛠️ Construyendo proyectos personales para reforzar lógica y arquitectura.<br>- 🎯 Mi meta: Dominar el stack web moderno y colaborar en proyectos de código abierto.<br><br>---<br><br>    
+ ¡Hola! Soy Amir<br><br>🎓 Estudiante de la Tecnicatura Universitaria en Desarrollo Web  <br>💡 Apasionado por convertir ideas en aplicaciones web funcionales y bien estructuradas.<br><br>---<br><br> 🚀 Sobre mí<br>- 📚 Actualmente  cursando la Tecnicatura en Desarrollo Web.<br>- 🛠️ Construyendo proyectos personales para reforzar lógica y arquitectura.<br>- 🎯 Mi meta: Dominar el stack web moderno y colaborar en proyectos de código abierto.<br><br><p align="center">
+  <img src="https://github.com/user-attachments/assets/adb477f4-40de-447b-a6b4-9349f0e9b113" alt="divisor" width="2000" height="85">
+</p><br>    
  💻 Tecnología & Framework
 
 <img align="right" width="280" height="310" alt="Gemini_Generated_Image_s59ebns59ebns59e" src="https://github.com/user-attachments/assets/fb61a9a4-c72a-4ef0-91c3-eddb473ef84c" />
- 
+
+
  <br>
  
  Lenguajes & Frontend:  HTML5, CSS3, JavaScript ,  React <br> <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white"> <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">   
