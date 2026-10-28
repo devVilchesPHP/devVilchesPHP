@@ -1,8 +1,8 @@
 <img width="4128" height="1024" alt="Gemini_Generated_Image_ilon2jilon2jilon" src="https://github.com/user-attachments/assets/bc585473-d3f0-4e5e-a505-dfae4ba7aab2" />
 
+<br>
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Honk&size=40&pause=1000&width=435&lines=FUTURO++DESARROLLADOR+;FULL+STACK)](https://git.io/typing-svg) <br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Honk&size=40&pause=1000&width=435&lines=FUTURO++DESARROLLADOR+;FULL+STACK)](https://git.io/typing-svg) 
 
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
