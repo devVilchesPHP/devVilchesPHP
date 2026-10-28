@@ -7,7 +7,7 @@
 <br>
 
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
- ¡Hola! Soy Amir<br><br>🎓 Estudiante de la Tecnicatura Universitaria en Desarrollo Web  <br>💡 Apasionado por convertir ideas en aplicaciones web funcionales y bien estructuradas.<br><br>---<br><br> 🚀 Sobre mí<br>- 📚 Actualmente  cursando la Tecnicatura en Desarrollo Web.<br>- 🛠️ Construyendo proyectos personales para reforzar lógica y arquitectura.<br>- 🎯 Mi meta: Dominar el stack web moderno y colaborar en proyectos de código abierto.<br><br><p align="center">
+ ¡Hola! Soy Amir<br><br>🎓 Estudiante de la Tecnicatura Universitaria en Desarrollo Web  <br>💡 Apasionado por convertir ideas en aplicaciones web funcionales y bien estructuradas.<br><br>---<br><br> 🚀 Sobre mí<br>- 📚 Actualmente  cursando la Tecnicatura en Desarrollo Web.<br>- 🛠️ Construyendo proyectos personales para reforzar lógica y arquitectura.<br>- 🎯 Mi meta: Dominar el stack web moderno y colaborar en proyectos de código abierto. <br> - 🤔 Curioso de Rust, Go y Linux <br><br><p align="center">
   <img src="https://github.com/user-attachments/assets/adb477f4-40de-447b-a6b4-9349f0e9b113" alt="divisor" width="2000" height="85">
 </p><br>    
  💻 Tecnología & Framework
