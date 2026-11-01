@@ -26,6 +26,7 @@
 | [+] Bases de datos ... PostgreSQL · MongoDB                                                                            |
 | [+] Herramientas ..... Git · VS Code · Postman · Windsurf · Sentry                                                     |
 | [+] Sistemas ......... Linux · Windows                                                                                 |
+| [+] idioma: Español                                                                                                    |                  
 |                                                                                                                        |
 | >_ ACCESS GRANTED. HACK BACK.                                                                                          |
 +------------------------------------------------------------------------------------------------------------------------+
