@@ -32,12 +32,7 @@
 ```
 
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="ICONO-CAPUCHA" align="left" width = 50px></picture>
-<p align="right">
-  <picture>
-    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="ICONO-CAPUCHA" width="50px">
-  </picture>
-</p>
-
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="ICONO-CAPUCHA" align="right" width = 50px></picture>
  
 
 
