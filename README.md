@@ -1,5 +1,5 @@
 <img width="1500" height="500" alt="BANNER" src="https://github.com/user-attachments/assets/bfc1a640-f73c-4dcd-917e-4fd4f303e3ca" />
-<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="ICONO-CAPUCHA" width = 50px></picture>  ------------------------------------------------------------------------------------------------------------------------------------------  
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="ICONO-CAPUCHA" width = 50px></picture>  ------------------------------------------------------------------------------------------------------------------------------------------
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="ICONO-CAPUCHA" align= "right" width = 50px></picture>
 
 ```text
