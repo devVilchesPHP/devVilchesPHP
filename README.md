@@ -22,7 +22,7 @@
 |                                                                                                                        |
 | root@github:~# ls stack/                                                                                               |
 | [+] Lenguajes ........ HTML · CSS · JavaScript · TypeScript · Python · Rust · Go                                       |
-| [+] Frameworks ....... React · Vue.js . FastAPI                                                                        |
+| [+] Frameworks ....... React · Vue.js · FastAPI                                                                        |
 | [+] Bases de datos ... PostgreSQL · MongoDB                                                                            |
 | [+] Herramientas ..... Git · VS Code · Postman · Windsurf · Sentry                                                     |
 | [+] Sistemas ......... Linux · Windows                                                                                 |
