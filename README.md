@@ -4,7 +4,7 @@
 
 ```text
 +------------------------------------------------------------------------------------------------------------------------+
-| root@github:~# ./infiltrate.sh                                                                                         |
+| root@github:~# ./infiltrate.sh - PROYECTOS EN DESARROLLO - Loading… ⏳                                                 |
 | Initiating sequence...                                                                                                 |
 |                                                                                                                        |
 |                                              █████╗ ███╗   ███╗██╗██████╗                                              |
@@ -17,7 +17,8 @@
 |                                              >_ DESARROLLADOR FULL STACK                                               |
 |                                                                                                                        |
 | root@github:~# cat sobre_mi.txt                                                                                        |
-| Estudié la Tecnicatura Universitaria en Desarrollo Web y vivo la tecnología con pasión.                                |
+| Estudié la Tecnicatura Universitaria en Desarrollo Web y la Tecnicatura en Producción Agropecuaria ,vivo               |
+|  la tecnología con pasión.                                                                                             |
 | Me encanta aprender, construir cosas desde cero y resolver problemas con código.                                       |
 |                                                                                                                        |
 | root@github:~# ls stack/                                                                                               |
@@ -30,6 +31,7 @@
 |                                                                                                                        |
 | >_ ACCESS GRANTED. HACK BACK.                                                                                          |
 +------------------------------------------------------------------------------------------------------------------------+
+ 
 ```
 
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="ICONO-CAPUCHA" align="left" width = 50px></picture> ---------------------------------------------------------------------------------------------------------------------------
