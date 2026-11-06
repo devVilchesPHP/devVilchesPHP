@@ -17,8 +17,9 @@
 |                                              >_ DESARROLLADOR FULL STACK                                               |
 |                                                                                                                        |
 | root@github:~# cat sobre_mi.txt                                                                                        |
-| Estudié la Tecnicatura Universitaria en Desarrollo Web y la Tecnicatura en Producción Agropecuaria ,vivo               |
-|  la tecnología con pasión.                                                                                             |
+|                                                                                                                        |
+|  Estudié la Tecnicatura Universitaria en Desarrollo Web y la Tecnicatura en Producción Agropecuaria ,vivo              |
+| la tecnología con pasión.                                                                                              |
 | Me encanta aprender, construir cosas desde cero y resolver problemas con código.                                       |
 |                                                                                                                        |
 | root@github:~# ls stack/                                                                                               |
